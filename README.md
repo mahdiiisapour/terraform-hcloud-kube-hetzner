@@ -42,7 +42,7 @@ To achieve this, we built up on the shoulders of giants by choosing [openSUSE Mi
 - Comes with batteries included, with its in-cluster [helm-controller](https://github.com/k3s-io/helm-controller).
 - Easy automatic updates, via the [system-upgrade-controller](https://github.com/rancher/system-upgrade-controller).
 
-### Features
+### Featuress
 
 - [x] **Maintenance-free** with auto-upgrades to the latest version of MicroOS and k3s.
 - [x] **Multi-architecture support**, choose any Hetzner cloud instances, including the cheaper CAX ARM instances.
